@@ -1,6 +1,6 @@
 ## Course: COL362(Fall'18): Database Management Systems
 ### Assignment 2: SQL Queries on IPL Database
-### Creators: NAVREET KAUR(2015TT10917),  SIDDHARTH KHERA(2015MT60567)
+#### Creators: NAVREET KAUR(2015TT10917),  SIDDHARTH KHERA(2015MT60567)
 
 This assignment deals with the Indian Premier League dataset. It contains information about 568 cricket matches played in the duration from 2008-2016. The datasets are available in the 'data' directory.
 
