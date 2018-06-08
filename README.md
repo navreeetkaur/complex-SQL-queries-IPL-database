@@ -1,4 +1,4 @@
-## Course: COL362(Fall'18): Database Management Systems
+### Course: COL362(Fall'18): Database Management Systems
 ### Assignment 2: SQL Queries on IPL Database
 #### Creators: NAVREET KAUR(2015TT10917),  SIDDHARTH KHERA(2015MT60567)
 
